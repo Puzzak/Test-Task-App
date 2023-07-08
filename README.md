@@ -4,6 +4,10 @@ This is test task app, made for Advertech
 
 > https://github.com/advertechai/mobile_dev_test_task
 
+## Release
+
+> https://github.com/Puzzak/Test-Task-App/releases/tag/Release
+
 ## Screenshots
 Nothing filled             |  Everything filled
 :-------------------------:|:-------------------------:
